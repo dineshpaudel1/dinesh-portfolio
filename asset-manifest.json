@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.58af850e.js",
+    "main.css": "/static/css/main.5b09d9b0.css",
+    "main.js": "/static/js/main.facd428d.js",
     "static/media/projekthub.png": "/static/media/projekthub.235ac238b2f4c018c95a.png",
-    "static/media/mygithub.png": "/static/media/mygithub.478b4c016c3bdbd40779.png",
     "static/media/HeroImage.jpg": "/static/media/HeroImage.d6ce9ce28a3a690b376e.jpg",
     "static/media/Chalauapp.png": "/static/media/Chalauapp.fda281b14fc93d70690f.png",
     "static/media/cv.pdf": "/static/media/cv.8dd5e183130ad6bf6549.pdf",
@@ -11,11 +10,11 @@
     "static/media/project3.png": "/static/media/project3.508ef681c8f0bb5390c9.png",
     "static/media/postman.webp": "/static/media/postman.62045dd18a40c9637893.webp",
     "index.html": "/index.html",
-    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.58af850e.js.map": "/static/js/main.58af850e.js.map"
+    "main.5b09d9b0.css.map": "/static/css/main.5b09d9b0.css.map",
+    "main.facd428d.js.map": "/static/js/main.facd428d.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf538fe7.css",
-    "static/js/main.58af850e.js"
+    "static/css/main.5b09d9b0.css",
+    "static/js/main.facd428d.js"
   ]
 }
